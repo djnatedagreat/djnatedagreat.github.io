@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<ul>
+ {% for song in site.data.playlists.hiphop %}
+  <li>
+	  {{song.artist}} {{ song.title }}
+  </li>
+ {% endfor %}
+</ul>
