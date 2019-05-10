@@ -6,7 +6,10 @@ layout: default
 <ul>
  {% for song in site.data.playlists.hiphop %}
   <li>
-	  {{song.artist}} - {{ song.title }} ({{song.released}})
+	  {{song.artist}} - {{ song.title }} 
+	  {% if song.released %}
+	  	({{song.released}})
+	  {% endif %}
   </li>
  {% endfor %}
 </ul>
