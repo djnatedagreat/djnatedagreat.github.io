@@ -1,157 +1,256 @@
 - title: Eric B. Is President
   artist: Eric B. & Rakim
   released: 1986
-  tags: popular, party, favorite
+  tags: [essential, party]
 - title: My Melody
   artist: Eric B. & Rakim
   released: 1986
-  tags: popular, favorite
+  tags: [essential]
 - title: Top Billin
   artist: Audio Two
   released: 1987
-  tags: popular, party, favorite
+  tags: [essential, party]
 - title: South Bronx 
   artist: Boogie Down Productions
   released: 1986
+  tags: [essential, party]
 - title: The Bridge 
   artist: M.C. Shan and Marley Marl 
   released: 1986
-  tags: popular, party, favorite
+  tags: [essential, party]
 - title: The Bridge Is Over
   artist: Boogie Down Productions 
   released: 1987
-  tags: popular, party
+  tags: [essential, party]
 - title: Go Stetsa 1 
   artist: Stetsasonic
   released: 1986
-  tags: party, favorite
+  tags: [essential, party]
 - title: Ego Trippin
   artist: UltraMagnetic MCs
-  released: 
+  released: 1986
+  tags: [essential, party]
 - title: You're Gonna Get Yours
   artist: Public Enemy
   released: 1987
+  tags: [essential]
 - title: Nobody Beats the Biz
   artist: Biz Markie
-  released:
+  released: 1987
+  tags: [essential, party]
 - title: Make the Music with Your Mouth Biz
   artist: Biz Markie
   released: 1986
+  tags: [essential, party]
   
-- title: You're A Customer
+- title: It's My Thing
   artist: EPMD
-  released:
+  released: 1987
+  tags: [essential, party]
+- title: You're a Customer 
+  artist: EPMD
+  released: 1987
+  tags: [essential, party]
 - title: Do The James
   artist: Super Lover Cee & Casanova Rud
-  released:
-- title: Hot Day Master Mix
-  artist: DJ Hot Day
-  released:
-- title: Going Way Back
-  artist: Just Ice
-  released:
-- title: Tramp
-  artist: Salt N Pepa
-  released:
-- title: Cinderfella
-  artist: Dana Dane
-  released:
-- title: Get Into It
-  artist: Big Daddy Kane
   released: 1987
-- title: What's My Name
-  artist: Steady B
-  released: 
-- title: Cram To Understand U
-  artist: MC Lyte
-  released: 1987
-- title: Rikers Island
-  artist: Kool G Rap & DJ Polo
-  released: 1987
-- title: It's a Demo
-  artist: Kool G Rap & DJ Polo
-  released: 1986
+  tags: [essential, party]
 - title: Raw
   artist: Big Daddy Kane
   released: 1987
-- title: It's a Demo
-  artist: Kool G Rap & DJ Polo
-  released: 1986
+  tags: [essential, party]
 - title: I Know You Got Soul
   artist:  Eric B & Rakim
   released: 1987
-- title: The Def Fresh Crew
-  artist: Roxanne Shante (w/ Biz Markie)
+  tags: [essential, party]
+- title: Hot Day Master Mix
+  artist: DJ Hot Day
+  released: 1987
+  tags: [deep]
+- title: Going Way Back
+  artist: Just Ice
+  released: 1987
+  tags: [essential]
+- title: I'll Take Your Man
+  artist: Salt N Pepa
   released: 1986
-- title: Play It kool
-  artist: Cash Money & Marvelous
-  released:
+  tags: [essential, party]
+- title: Run's House 
+  artist: Run DMC 
+  released: 1987
+  tags: [essential, party]
+- title: Beats to the Rhyme 
+  artist: Run DMC 
+  released: 1987
+  tags: [essential]
 - title: Peter Piper
   artist: Run DMC
   released: 1986
-- title: I Gotta Rock
-  artist: Ill Chief Rockers
-  released: 1986
-- title: It's My Beat
-  artist: Sweet Tee and Jazzy Joyce
-  released:
-- title: The Tragedy (Don't Do It) - Dub
-  artist: Super Kids
-  released:
-- title: Sexy
-  artist: Masters of Ceremony
-  released:
-- title: Juice Crew AllStars
-  artist: Juice Crew AllStars 
+  tags: [essential, party]
+- title: The Overweight Lover's in the House
+  artist: Heavy D 
   released: 1987
-- title: This Cuts Got Flavor
-  artist: Latee
-  released:
-- title: I Got An Attitude
-  artist: Antoinette
-  released:
-- title: Skill Trade
-  artist: Nice and Smooth
-  released:
-- title: Dope on a Rope
-  artist: Nice and Smooth
-  released:
+  tags: [essential, party]
+- title: Cinderfella
+  artist: Dana Dane
+  released: 1987
+  tags: [essential]
+- title: Get Into It
+  artist: Big Daddy Kane
+  released: 1987
+  tags: [essential]
+- title: Just Rhymin' With Biz (featuring Biz Markie)
+  artist: Big Daddy Kane
+  released: 1987
+  tags: [essential]
+- title: Cram To Understand U
+  artist: MC Lyte
+  released: 1987
+  tags: [essential]
+- title: Jimbrowski 
+  artist: Jungle Brothers
+  released: 1987
+  tags: [essential]
 - title: Have a Nice Day
   artist: Roxanne Shante
   released: 1987
+  tags: [essential, party]
+- title: Pay Back 
+  artist: Roxanne Shante
+  released: 1987
+  tags: []
 - title: Rebel Without a Pause
   artist: Public Enemy
   released: 1987
-  
-#31. Schoolly D - Saturday Night
-#32. Schoolly D - Gangster Boogie
-
-#35. Divine Force - Holy War (1987)
-#36. Cool C - Juice Crew Dis (1987)
-#37. JVC Force - Strong Island (1987)
-#38. Jungle Brothers - Jimbrowski
-#40. The Kings of Pressure - You Know How to Reach Us (1987)
-#41. Levi 167
-#42. Heavy D - The Overweight Lover's in the House
-
-#44. M.C. Mitchski "The Rappin Comedian" - Brooklyn Blew Up The Bridge
-
-#48. Mikey D & the L.A. Possee - I Get Rough or My Telephone
-#49. Spoonie G - The Godfather (1987)
-
-#51. Run DMC - Run's House (1987)
-#52. Run DMC - Beats to the Rhyme (1987)
-#53. Michie Mee and L.A. Luv. - Run For Cover (1987)
-#54. Mr. X & Mr. Z - Drink Old Gold (1987)
-
-#56. Ultramagnetic MC's - Funky
-#57. Whodini - Funky Beat (1986)
-#58. Sweet Tee - Like That Ya'll (1987)
-#59. Just Ice - Moshitup (1987)
-#60. Marley Marl - He Cuts So Fresh (1987)
-#61. MC Shan - Down By Law (1987)
-#62. EPMD - It's My Thing (1987)
-#63. Just Ice - Put That Record Back On (1986)
-#64. Stetsanonic - Forever My Beat (1986/1987)
-#65. Public Enemy - Public Enemy #1 (1987)
-#66. Krown Rulers - B Boy Document (1987)
+  tags: [essential]
+- title: Down By Law 
+  artist: MC Shan 
+  released: 1987
+  tags: [essential]
+- title: Like That Ya'll 
+  artist: Sweet Tee
+  released: 1987
+  tags: [essential]
+- title: "Public Enemy #1"
+  artist: Public Enemy
+  released: 1987
+  tags: [essential]
+- title: Parkside 5-2 
+  artist: Schoolly D
+  released: 1986
+  tags: [essential]
+- title: Rikers Island
+  artist: Kool G Rap & DJ Polo
+  released: 1987
+  tags: [deep]
+- title: Funky 
+  artist: Ultramagnetic MC's 
+  released: 1987
+  tags: 
+- title: It's a Demo
+  artist: Kool G Rap & DJ Polo
+  released: 1986
+  tags: [deep]
+- title: The Def Fresh Crew
+  artist: Roxanne Shante (w/ Biz Markie)
+  released: 1986
+  tags: []
+- title: Play It kool
+  artist: Cash Money & Marvelous
+  released: 1987
+  tags: [deep]
+- title: It's My Beat
+  artist: Sweet Tee and Jazzy Joyce
+  released: 1987
+  tags: [deep]
+- title: Sexy
+  artist: Masters of Ceremony
+  released: 1986
+- title: Juice Crew AllStars
+  artist: Juice Crew AllStars 
+  released: 1987
+  tags: [deep]
+- title: This Cuts Got Flavor
+  artist: Latee
+  released: 1987
+  tags: [deep]
+- title: I Got An Attitude
+  artist: Antoinette
+  released: 1987
+  tags: [deep]
+- title: Skill Trade
+  artist: Nice and Smooth
+  released: 1987
+  tags: [deep]
+- title: Dope on a Rope
+  artist: Nice and Smooth
+  released: 1987
+  tags: [deep]
+- title: Holy War 
+  artist: Divine Force
+  released: 1987
+  tags: [deep]
+- title: Juice Crew Dis 
+  artist: Cool C 
+  released: 1987
+  tags: [deep]
+- title: Strong Island 
+  artist: JVC Force
+  released: 1987
+  tags: [deep]
+- title: No Tricks 
+  artist: Latee 
+  released: 1988
+  tags: 
+- title: The Godfather
+  artist: Spoonie G 
+  released: 1987
+  tags: []
+- title: He Cuts So Fresh
+  artist: Marley Marl 
+  released: 1987
+  tags: []
+- title: You Know How to Reach Us 
+  artist: Kings of Pressure 
+  released: 1987
+  tags: []
+- title: I Gotta Rock
+  artist: Ill Chief Rockers
+  released: 1986
+  tags: [deep]
+- title: Drink Old Gold 
+  artist: Mr. X & Mr Y 
+  released: 1987
+  tags: []
+- title: The Tragedy (Don't Do It) - Dub
+  artist: Super Kids
+  released: 1987
+  tags: [deep]
+- title: Run for Cover 
+  artist: Michee Mee & L.A. Luv 
+  released: 1987
+  tags: []
+- title: Forever My Beat 
+  artist: Stetsasonic 
+  released: 1986
+  tags: []
+- title: Put That Record Back On 
+  artist: Just Ice 
+  released: 1986
+  tags: []
+- title: Moshitup 
+  artist: Just Ice 
+  released: 1987
+  tags: []
+- title: Something Fresh To Swing To 
+  artist: Levi 167 
+  released: 1987
+  tags: []
+- title: B Boy Document 
+  artist: Krown Rulers 
+  released: 1987
+  tags: []
+- title: I Get Rough 
+  artist: Mikey D & the L.A. Possee 
+  released: 1987
+  tags: []

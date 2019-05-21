@@ -2,14 +2,38 @@
 layout: default
 ---
 <h1>No Tricks in 86 (and 87 😄)</h1>
-<p>A list of dope tracks from the very start of the Golden Age. 🎤📾👑💪</p>
+<p>My first exposure to Hip Hop was probably a few years earlier, but it was '86 or '87 when I really fell in love. Sampling was at the forefront of production. Lyrical styles were growing more intricate and diverse. Magic, Marley, Red Alert and Chuck were crushing it on WBLS and KISS FM in New York City. This was the beginning of Hip Hop's &quot;Golden Age&quot;.</p>
+</p>Here's a list of some of my favorite dope tracks from the very start of the Golden Age. 🎤📾👑💪</p>
+  <div class="heading">
+	  <div class="col-song">Song</div>
+	  <div class="col-year">Released</div>
+	  <div class="col-essential">Essential Pick</div>
+	  <div class="col-party">Party Classic</div>
+  </div>
 <ul class="playlist">
  {% for song in site.data.playlists.hiphop %}
-  <li>
-	  {{song.artist}} - {{ song.title }} 
-	  {% if song.released %}
-	  	({{song.released}})
-	  {% endif %}
+  {% if song.released == 1986 or song.released == 1987 %}
+  <li class="row">
+	  <div class="col-song">
+		  <strong>{{ song.title }}</strong><br/>
+	  	{{song.artist}}
+	  </div>
+	  <div class="col-year">
+	  	{% if song.released %}
+	  		({{song.released}})
+		{% endif %}
+	  </div>
+	  <div class="col-essential">
+	  	{% if song.tags contains "essential" %}
+	    		&#9733;
+	  	{% endif %}
+	  </div>
+	  <div class="col-party">
+	  	{% if song.tags contains "party" %}
+	    		&#127881;
+	  	{% endif %}
+	  </div>
   </li>
+  {% endif %}
  {% endfor %}
 </ul>
