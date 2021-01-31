@@ -3,6 +3,23 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap header.inner {
+    padding: 0;
+    nav ul {
+  	list-style-type: none;
+        margin: 0;
+	padding: 0;
+	width: 100%;
+	li {
+	  display: inline;
+	  a {
+	    padding: 8px;
+	    color: #dddddd;
+	    }
+	}
+    }
+}
+
 .heading {
     display: flex;
     flex-direction: row;
