@@ -2,5 +2,6 @@ theme: jekyll-theme-slate
 title: Nate Da Great 
 show_downloads: false
 description: DJ, Coder, Builder 
-navbar-links:       
+navbar-links:
   About: 'about'
+#remote_theme: djnatedagreat/jekyll-theme-bulmatic

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<h1>Fresh For '88 (and '89) You Suckas</h1>
+
+  <div class="heading">
+	  <div class="col-song">Song</div>
+	  <div class="col-year">Released</div>
+	  <div class="col-essential">Essential Pick</div>
+	  <div class="col-party">Party Classic</div>
+  </div>
+<ul class="playlist">
+ {% for song in site.data.playlists.hiphop %}
+  {% if song.released == 1988 or song.released == 1989 %}
+  <li class="row">
+	  <div class="col-song">
+		  <strong>{{ song.title }}</strong><br/>
+	  	{{song.artist}}
+	  </div>
+	  <div class="col-year">
+	  	{% if song.released %}
+	  		({{song.released}})
+		{% endif %}
+	  </div>
+	  <div class="col-essential">
+	  	{% if song.tags contains "essential" %}
+	    		&#9733;
+	  	{% endif %}
+	  </div>
+	  <div class="col-party">
+	  	{% if song.tags contains "party" %}
+	    		&#127881;
+	  	{% endif %}
+	  </div>
+  </li>
+  {% endif %}
+ {% endfor %}
+</ul>
