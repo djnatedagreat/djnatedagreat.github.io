@@ -14,6 +14,10 @@
   artist: Boogie Down Productions
   released: 1986
   tags: [essential, party]
+- title: Poetry 
+  artist: Boogie Down Productions
+  released: 1986
+  tags: [essential]
 - title: The Bridge 
   artist: M.C. Shan and Marley Marl 
   released: 1986
@@ -42,7 +46,6 @@
   artist: Biz Markie
   released: 1986
   tags: [essential, party]
-  
 - title: It's My Thing
   artist: EPMD
   released: 1987
@@ -63,6 +66,10 @@
   artist:  Eric B & Rakim
   released: 1987
   tags: [essential, party]
+- title: Paid In Full 
+  artist:  Eric B & Rakim
+  released: 1987
+  tags: [essential, party]
 - title: Hot Day Master Mix
   artist: DJ Hot Day
   released: 1987
@@ -71,6 +78,10 @@
   artist: Just Ice
   released: 1987
   tags: [essential]
+- title: Lyric Licking
+  artist: Just Ice
+  released: 1987
+  tags: []
 - title: I'll Take Your Man
   artist: Salt N Pepa
   released: 1986
@@ -103,9 +114,17 @@
   artist: Big Daddy Kane
   released: 1987
   tags: [essential]
+- title: Something Funky 
+  artist: Big Daddy Kane
+  released: 1987
+  tags: []
 - title: Cram To Understand U
   artist: MC Lyte
   released: 1987
+  tags: [essential]
+- title: Lyte As a Rock 
+  artist: MC Lyte
+  released: 1988
   tags: [essential]
 - title: Jimbrowski 
   artist: Jungle Brothers
@@ -114,6 +133,10 @@
 - title: Braggin and Boastin 
   artist: Jungle Brothers
   released: 1987
+  tags: []
+- title: On the Run 
+  artist: Jungle Brothers
+  released: 1988
   tags: []
 - title: Have a Nice Day
   artist: Roxanne Shante
@@ -167,6 +190,14 @@
   artist: Cash Money & Marvelous
   released: 1987
   tags: [deep]
+- title: The Mighty Hard Rocker 
+  artist: Cash Money & Marvelous
+  released: 1988
+  tags: []
+- title: Ugly People Be Quiet 
+  artist: Cash Money & Marvelous
+  released: 1987
+  tags: [essential]
 - title: It's My Beat
   artist: Sweet Tee and Jazzy Joyce
   released: 1987
@@ -286,6 +317,10 @@
   artist: MC Lyte 
   released: 1988
   tags: [essential]
+- title: Paper Thin 
+  artist: MC Lyte 
+  released: 1988
+  tags: [essential]
 - title: My Philosophy 
   artist: Boogie Down Productions 
   released: 1988
@@ -303,6 +338,10 @@
   released: 1988
   tags: [essential,party]
 - title: Girls I Got Em Locked 
+  artist: Super Lover Cee & Casanova Rud 
+  released: 1988
+  tags: [essential,party]
+- title: Super Casanova 
   artist: Super Lover Cee & Casanova Rud 
   released: 1988
   tags: [essential,party]
@@ -334,6 +373,10 @@
   artist: Ultramagnetic MCs 
   released: 1988
   tags: [essential]
+- title: Watch Me Now 
+  artist: Ultramagnetic MCs 
+  released: 1988
+  tags: [essential]
 - title: The Master Move 
   artist: Masters of Ceremony 
   released: 1988
@@ -350,6 +393,10 @@
   artist: Eric B. & Rakim 
   released: 1988
   tags: [essential, party]
+- title: Microphone Fiend 
+  artist: Eric B. & Rakim 
+  released: 1988
+  tags: [essential, party]
 - title: Don't Believe The Hype 
   artist: Public Enemy 
   released: 1988
@@ -362,6 +409,10 @@
   artist: Slick Rick 
   released: 1988
   tags: [essential, party]
+- title: Hey Young World 
+  artist: Slick Rick 
+  released: 1988
+  tags: [essential]
 - title: The Symphony 
   artist: Marley Marl 
   released: 1988
@@ -378,3 +429,43 @@
   artist: Jungle Brothers 
   released: 1988
   tags: [essential]
+- title: Ready to Penetrate 
+  artist: Sugar Bear 
+  released: 1988
+  tags: []
+- title: I Ain't Goin' Out Like That 
+  artist: Dr. Luv & Kev-Ski 
+  released: 1988
+  tags: []
+- title: Master Move 
+  artist: Masters of Ceremony
+  released: 1988
+  tags: []
+- title: Serious 
+  artist: Steady B
+  released: 1988
+  tags: []
+- title: On Tempo Jack 
+  artist: Phill Most Chill 
+  released: 1988
+  tags: [deep]
+- title: I'm Not Playin 
+  artist: Ultimate Force 
+  released: 1989
+  tags: [deep]
+- title: Wild Pitch 
+  artist: Chill Rob G 
+  released: 1988
+  tags: [deep]
+- title: The Court is Now in Session 
+  artist: Chill Rob G 
+  released: 1989
+  tags: [deep]
+- title: It Takes Two 
+  artist: Rob Base & DJ EZ Rock 
+  released: 1988
+  tags: [essential,party]
+- title: Live 
+  artist: Sport "G" And Mastermind 
+  released: 1988
+  tags: [deep]
