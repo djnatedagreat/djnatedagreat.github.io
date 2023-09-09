@@ -18,6 +18,10 @@
   artist: Boogie Down Productions
   released: 1986
   tags: [essential]
+- title: Ciminal Minded 
+  artist: Boogie Down Productions
+  released: 1986
+  tags: [essential]
 - title: The Bridge 
   artist: M.C. Shan and Marley Marl 
   released: 1986
@@ -57,9 +61,13 @@
 - title: Get Off the Bandwagon (Remix) 
   artist: EPMD
   released: 1989
-  tags: [essential, party]
+  tags: []
 - title: Do The James
   artist: Super Lover Cee & Casanova Rud
+  released: 1987
+  tags: [essential, party]
+- title: I Ain't No Joke 
+  artist: Eric B. and Rakim 
   released: 1987
   tags: [essential, party]
 - title: Raw
@@ -146,6 +154,18 @@
   artist: Jungle Brothers
   released: 1988
   tags: []
+- title: J Beez Coming Through 
+  artist: Jungle Brothers
+  released: 1989
+  tags: [essential]
+- title: J Beez Coming Through (Bonus Beats)
+  artist: Jungle Brothers
+  released: 1989
+  tags: [essential]
+- title: Buddy 
+  artist: De La Soul 
+  released: 1989
+  tags: [essential,party]
 - title: Have a Nice Day
   artist: Roxanne Shante
   released: 1987
@@ -321,7 +341,15 @@
   artist: Kool G Rap & DJ Polo 
   released: 1988
   tags: [essential]
+- title: Men At Work 
+  artist: Kool G Rap & DJ Polo 
+  released: 1988
+  tags: [essential]
 - title: 10% Dis 
+  artist: MC Lyte 
+  released: 1988
+  tags: [essential]
+- title: Cha Cha Cha 
   artist: MC Lyte 
   released: 1988
   tags: [essential]
@@ -334,6 +362,10 @@
   released: 1988
   tags: [essential]
 - title: I'm Still Number 1 
+  artist: Boogie Down Productions 
+  released: 1988
+  tags: [essential]
+- title: I'm Still Number 1 (Numero Uno Remix)
   artist: Boogie Down Productions 
   released: 1988
   tags: [essential]
@@ -357,6 +389,10 @@
   artist: Big Daddy Kane 
   released: 1988
   tags: [essential,party]
+- title: Another Victory 
+  artist: Big Daddy Kane 
+  released: 1989
+  tags: [essential]
 - title: Ain't No Half-Steppin 
   artist: Big Daddy Kane 
   released: 1988
@@ -369,6 +405,10 @@
   artist: Biz Markie 
   released: 1988
   tags: [essential, party]
+- title: Biz Is Goin' Off 
+  artist: Biz Markie 
+  released: 1988
+  tags: [essential]
 - title: Droppin Science (Hip Hop Version) 
   artist: Marley Marl featuring Craig G 
   released: 1988
